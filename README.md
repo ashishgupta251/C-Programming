@@ -67,3 +67,74 @@ C-Programming
 </div>
 
 ---
+
+# 🛠️ Mini Projects
+
+The repository also contains practical mini projects developed using C Programming.
+
+- 🧮 Calculator
+- 📅 Calendar
+- 📏 Unit Converter
+- 📝 More projects will be added as the learning journey continues.
+
+---
+
+# 🚀 Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/ashishgupta251/C-Programming.git
+```
+
+### Open the Project
+
+```bash
+cd C-Programming
+```
+
+Compile any C program using GCC:
+
+```bash
+gcc filename.c -o output
+```
+
+Run the executable:
+
+```bash
+./output
+```
+
+---
+
+# 🎯 Learning Goals
+
+This repository is continuously updated as I explore new concepts in C Programming.
+
+Future additions include:
+
+- 🌳 Data Structures in C
+- 📂 File-based Projects
+- ⚙️ System Programming Concepts
+- 💡 More Practice Problems
+- 🚀 Advanced Mini Projects
+
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**.
+
+See the **LICENSE** file for more details.
+
+---
+
+<div align="center">
+
+### 👨‍💻 Developed by Ashish Gupta
+
+⭐ If you find this repository helpful, consider giving it a star.
+
+Happy Coding! 🚀
+
+</div>
