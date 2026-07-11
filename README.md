@@ -47,7 +47,6 @@ This repository documents my journey of learning **C Programming**, covering eve
 C-Programming
 
 ├── Notes
-├── Programs
 ├── Projects
 ├── assets
 │   └── preview.png
