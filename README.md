@@ -1,62 +1,70 @@
-# 💻 C Programming Notes & Projects 📘
+<div align="center">
 
-Welcome to the ultimate repository for learning and practicing **C Programming**!  
-Whether you're a beginner 👶 or brushing up your skills 💪, this repo offers clean code examples and practical projects to help you master the language.
+# 💻 C Programming
+
+### From Fundamentals to Real-World Mini Projects
+
+<p>
+
+<img src="https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white">
+
+<img src="https://img.shields.io/badge/Repository-Learning-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Programs-Mini%20Projects-success?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
+
+</p>
+
+<img src="assets/preview.png" width="100%" alt="C Programming Repository"/>
+
+</div>
 
 ---
 
-## 📂 Repository Structure
+# 📖 About
 
-C-Programming/
-├── Notes/ # Notes will be added here soon
-├── Projects/ # All C language project files
-│ ├── Analog Clock
-│ ├── Calender
-│ └── Phone Book
-│ └── Scientific Calculator
-│ └── Unit Convertor
-│ └── (Coming soon...)
+Welcome to my **C Programming** repository.
+
+This repository documents my journey of learning **C Programming**, covering everything from fundamental concepts to practical mini projects. It serves as a personal learning archive while also acting as a useful reference for students beginning their programming journey.
+
+---
+
+# ✨ What's Inside
+
+- 📘 Well-Organized Notes
+- 💻 C Programming Examples
+- ⚙️ Practice Programs
+- 🛠️ Mini Projects
+- 📚 Problem Solving
+- 🚀 Continuous Learning
+
+---
+
+# 📂 Repository Structure
+
+```text
+C-Programming
+
+├── Notes
+├── Programs
+├── Projects
+├── assets
+│   └── preview.png
+│
 ├── README.md
+├── LICENSE
 └── .gitignore
-
-
----
-
-## 🔧 Features
-
-- 🧠 Easy-to-understand code
-- 🛠️ Practical project examples
-- 📚 Clean and simple structure
-- 📝 Notes section coming soon
+```
 
 ---
 
-## 📌 Topics Covered
+# 🛠️ Tech Stack
 
-- Loops & Conditionals 🔁
-- Arrays & Strings 🧵
-- Functions ⚙️
-- Pointers & Memory 🧠
-- File Handling 📁
-- Basic Problem Solving 🧮
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=c,git,github,vscode"/>
 
-## 🚀 Upcoming Additions
-
-- 📓 Concept-wise notes in Markdown and PDF
-- 💡 Interview-based practice questions
-- ✅ Compilation-ready project codes
+</div>
 
 ---
-
-## 🤝 Contribute
-
-Feel free to fork and contribute!  
-You can add new projects, improve code, or help with notes.
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
